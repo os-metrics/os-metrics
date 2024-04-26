@@ -9,7 +9,7 @@ I'll add more to this as I have the time to start working on this project and co
 
 ## Contributing
 
-OS Metrics comes makes use of the following features:
+OS Metrics makes use of the following features:
 
 - [Mantine](https://mantine.dev)
 - [PostCSS](https://postcss.org/) with [mantine-postcss-preset](https://mantine.dev/styles/postcss-preset)
